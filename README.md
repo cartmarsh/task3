@@ -5,10 +5,10 @@ Task3:
 
 Zeit:
 - 30min ComponentenStruktur
-- 1,5h DataFetching (promises) + verarbeiten
+- 1h DataFetching (promises) + verarbeiten
 - 45mins Performance-Optimierung
 - 45mins CSS
-- Gesamt: 3,5h
+- Gesamt: 3h
 
 
 
